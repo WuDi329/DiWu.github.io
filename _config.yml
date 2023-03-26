@@ -1,11 +1,11 @@
 # Setup
-title: Yesterday Cafe
-description: My own website
-url: https://Yestercafe.github.io
-avatar: /avatar.jpeg
+title: 滔滔
+description: "Make it fun, not just do fun things."
+url: https://TaoTao.github.io
+avatar: /my-avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /mybg.jpg
 
 # Gems
 plugins:
@@ -33,10 +33,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Ivan Chien
+  name: Woody Wu
   links:
     - https://twitter.com/123
-    - https://github.com/Yestercafe
+    - https://github.com/WuDi329
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Ivan Chien
-  url: https://github.com/Yestercafe/
-  email: 1234@gmail.com
+  name: Woody Wu
+  url: https://github.com/WuDi329
+  email: diiiwuuu@gmail.com
