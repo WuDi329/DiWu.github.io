@@ -1,7 +1,7 @@
 # Setup
 title: 滔滔
 description: "Make it fun, not just do fun things."
-url: https://TaoTao.github.io
+url: https://wuoody.icu
 avatar: /my-avatar.jpg
 paginate: 5
 permalink: pretty
@@ -33,7 +33,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Woody Wu
+  name: Wuoody Wu
   links:
     - https://twitter.com/123
     - https://github.com/WuDi329
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Woody Wu
+  name: Wuoody Wu
   url: https://github.com/WuDi329
   email: diiiwuuu@gmail.com
