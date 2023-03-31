@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Post
-author: Ivan Chien
+author: Wuoody Wu
 tags:
 - diary
 - example
